@@ -1,0 +1,5 @@
+1. ETJEBI Guy Timothée (20A264FS)
+2. MEFO Tella Joelle Miguelle (22B145FS)
+3. NOUMI MANGAMTI Myriam (22B408FS)
+4. HOUAMBO MGBAM Abbe Aude (22A915FS)
+5. TEMGOUA Chérone Varesa (22B088FS)
