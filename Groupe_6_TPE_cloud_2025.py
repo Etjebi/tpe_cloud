@@ -1,10 +1,4 @@
-
-
-
 # VERIFICATION DE L'OTENTICITE D'UNE ADRESSE IP
-
-
-
 
 # definition de la fonction
 def est_adresse_ip_valide(adresse_ip):
